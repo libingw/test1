@@ -4,6 +4,6 @@ test readme
 
 ## Test title 2
 
-<p>test paragraph. </p>
+test paragraph.
 
 ![Here is a image](images/foo.png)
