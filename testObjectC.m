@@ -29,6 +29,9 @@
 #import "OFUtilities.h"
 #import "OFXMLMapper.h"
 
+
+// Test the configuration of the objective c. extension is *.m file
+
 NSString *const OFFlickrSmallSquareSize = @"s";
 NSString *const OFFlickrLargeSquareSize = @"q";
 NSString *const OFFlickrThumbnailSize = @"t";
