@@ -15,7 +15,7 @@
 define(['orion/compare/builder/compare'],   
  
 function(Compare) {
-	var document = window.document;
+	var document = window.document;//test123
 
 	/** Buttons */	
 	var bCompare = document.getElementById("doCompare"); //$NON-NLS-0$
