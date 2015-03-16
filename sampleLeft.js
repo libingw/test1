@@ -25,13 +25,13 @@ function(Compare) {
 	var bContentType = document.getElementById("contentTypeSelect"); //$NON-NLS-0$
 	
 	var compareType = "byTwoContents"; //$NON-NLS-0$
-	var contentType = "js"; //$NON-NLS-0$
+	var contentType = "js"; //$NON-NLS-0$//test again
 	
 	
 	var contentOnLeft = "Sample Orion compare contents on left side\n\nYou can replace the contents here and and click on [Refresh Compare] to see the new result\n"; //$NON-NLS-0$
 	var	contentOnRight = "Sample Orion compare contents on right side\n\nYou can replace the contents here and and click on [Refresh Compare] to see the new result\n"; //$NON-NLS-0$
 	
-    var options = {
+    var options = {//tst
         parentDivId: "compareParentDiv", //$NON-NLS-0$
         commandSpanId: "compareCmdDiv", //$NON-NLS-0$
         newFile: {
