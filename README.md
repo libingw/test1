@@ -12,6 +12,6 @@ test paragraph.
 
 [日本語link1](dir1/テスト.js)
 
-[日本語link　2](dir 21/テスト.js)
+[日本語link　2](dir 2/テスト.js)
 
 ![Here is a image](images/foo.png)
